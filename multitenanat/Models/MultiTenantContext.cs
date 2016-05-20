@@ -41,7 +41,7 @@ namespace multitenanat.Models
                 },
                  new Tenant()
                 {
-                    Name ="Tenant  facebook 2", 
+                    Name ="Tenant  facebook 2",  
                     Domain ="www.facebook.com",
                     Id =2,
                     Default =true
